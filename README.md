@@ -12,3 +12,7 @@ The biggest advantage of using this script is that its very fast and language in
 
 Command:
 bash shuffler.sh input_binary.exe output_binary.exe
+
+
+https://user-images.githubusercontent.com/34940939/158320113-af229e0b-e715-4b7f-b046-f6fa9e915a1e.mp4
+
